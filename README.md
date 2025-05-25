@@ -119,3 +119,5 @@ Any contributions made under this project will be governed by the [Apache Licens
 
 This project adheres to the [American Express Community Guidelines](https://github.com/americanexpress/middle-manager/wiki/Code-of-Conduct).
 By participating, you are expected to honor these guidelines.
+
+<!-- GitAds-Verify: EAV5DF4U7GANCDN9QFGNBPSRJ52OHK3R -->
